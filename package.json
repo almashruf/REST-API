@@ -1,0 +1,21 @@
+{
+  "name": "rest-tut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "RestApi\u001b[D\u001b[D\u001b[D",
+    "A\u001b[pi"
+  ],
+  "author": "tonoy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
